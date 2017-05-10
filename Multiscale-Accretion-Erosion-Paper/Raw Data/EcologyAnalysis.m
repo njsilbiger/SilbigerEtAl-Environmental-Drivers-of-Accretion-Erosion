@@ -428,7 +428,7 @@ BenthicCoverN.Properties.VarNames{1}='Site';
 %remove the uknown column... there is 0%
 BenthicCoverN.UKN=[];
 
-%find max number or reps in each row because this is really the number of
+%find max number of reps in each row because this is really the number of
 %transects... this is because some transects didn't have some species so
 %instead of CRED putting a zero they did list the species.  I need this to
 %calculate the correct SEM for benthic data
@@ -518,7 +518,7 @@ remove=[2:7,9,11,12,14:2:30];
  AllData3(:,remove)=[]; 
 
 %replace Na with place holders... averages of the the columns (these are
-%the 3 daya points missing from MauiA27).  Can't run the model selection
+%the data points missing from MauiA27).  Can't run the model selection
 %with an NA.  
 AllData3.Si(19)=1.3433; AllData3.NO32(19)=0.346; AllData3.PO(19)=0.063;
 
