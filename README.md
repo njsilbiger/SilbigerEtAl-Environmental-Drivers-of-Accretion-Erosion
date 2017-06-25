@@ -1,4 +1,4 @@
-﻿# Title: Environmental drivers of coral reef accretion and erosion: a multi-scale analysis
+﻿# Title: Environmental drivers of coral reef carbonare production and bioerosion: a multi-scale analysis
 
 This repository includes data  for the above manuscript
 
@@ -7,7 +7,7 @@ This repository includes data  for the above manuscript
 
 **Funding:** This project was funded by the NOAA Nancy Foster Scholarship Program to NJS, the HIMB-NWHI Partnership Program to MJD, the Jessie D Kay Memorial Fellowship to NJS, and the University of Hawaii SeaGrant Program to MJD. 
  
-**Journal:**  
+**Journal:**  Ecology
    
 **Link:**  
 
