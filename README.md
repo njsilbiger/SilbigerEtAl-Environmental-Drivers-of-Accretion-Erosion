@@ -1,4 +1,4 @@
-﻿# Title: Environmental drivers of coral reef carbonare production and bioerosion: a multi-scale analysis
+﻿# Title: Environmental drivers of coral reef carbonate production and bioerosion: a multi-scale analysis
 
 This repository includes data  for the above manuscript
 
