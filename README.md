@@ -9,7 +9,7 @@ This repository includes data  for the above manuscript
  
 **Journal:**  Ecology
    
-**Link:**  
+**Link:**  http://onlinelibrary.wiley.com/doi/10.1002/ecy.1946/full
 
 **Contents:** There are two folders and a README.md file.
 
